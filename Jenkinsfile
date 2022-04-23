@@ -14,7 +14,6 @@ pipeline {
     }
    
     stages {
-
     // Tests
     stage('Unit Tests') {
       steps{
